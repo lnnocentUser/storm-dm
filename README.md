@@ -2,9 +2,6 @@
 **👨🏻‍💻 RAGE MP PROJECT | JavaScript/HTML/CSS**  
 
 ---
-## 🌟 Overview  
-STORM DM ⚡️ is a dynamic **RAGE MP** project developed over 2 months. This business-ready solution is entirely coded in **JavaScript** for logic and utilizes **HTML/CSS** to create an engaging user interface. Its modular structure and clean code design make it an ideal choice for server owners looking for a fast and functional DM mode.  
-
 
 ## 🚀 Features  
 - **Complete Business Solution**: Ready to deploy on RAGE MP servers.  
